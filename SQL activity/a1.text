@@ -1,0 +1,73 @@
+1. List the books Authored by Marjorie Green
+
+title_id:
+BU2075
+BU1032
+
+title:
+You can't Combat Computer Stress!
+The Busy Executive's Database Guide
+
+2. List Books Authored by Micheal O'Leary
+
+title_id
+BU1111
+
+
+tile:
+Cooking with Computers
+
+3. Write the author/s of "The Busy Executive Database Guide"
+
+au_id:
+213-46-8915
+
+au_lname:
+Green
+
+au_fname:
+Marjorie
+
+Abraham Bennet
+
+address:
+309 63rd St. #411
+
+city:
+Oakland
+
+state:
+CA
+
+4. Identify the publisher of "But is it user friendly?"
+
+pub_id:
+1389
+
+pub_name:
+Algodata Infosystems
+
+city:
+Berkeley
+
+5. List the books published by Algodata Infosystems.
+
+title_id:
+BU1032
+BU1111
+BU7832
+PC1035
+PC8888
+PC9999
+
+title:
+-The Busy Executive's Database Guide
+-Cooking with Computers
+-Straight talk about Computers
+- But is it User Friendly?
+- Secret of Silicon Valley
+- net Etiquette
+
+
+
+
